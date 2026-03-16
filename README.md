@@ -9,4 +9,4 @@ A powerful Python tool that transforms Markdown files into a fully structured HT
 - **Recursive Tree Building**: Converts Markdown into a custom `HTMLNode` tree before rendering to final HTML strings.
 - **Extensible**: Built with a modular architecture using Enums and specialized node classes.
 
-_Step to update the site are in update.md_
+_Steps to update the site are in update.md_
